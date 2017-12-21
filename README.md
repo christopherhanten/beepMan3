@@ -1,4 +1,4 @@
-# beepMan2
+# 4beepMan
 
 Beep Man 2 is a javascript-based game to be played in the browser.
 
@@ -30,4 +30,4 @@ What I need to do is:
 
 Ok, I totally have to go to bed. It's warming up a little. I'll ask for some instructor/student help tomorrow.
 I need it to click like b-legit and fourty water.
-# beepMan3
+# 4beepMan
