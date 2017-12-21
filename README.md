@@ -1,5 +1,12 @@
 # 4beepMan
 
+
+I am not giving up on this beyatch
+I've been working on this thing for awhile.
+It still is no good at doing anything.
+I am steadily learning along the way though.
+Please bear with ya boy.
+
 Beep Man 2 is a javascript-based game to be played in the browser.
 
 This project is hard AF. The things I need to happen in my life, "Everything to click," has not occurred yet. 
