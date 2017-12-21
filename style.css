@@ -1,0 +1,61 @@
+/*title {*/
+  background-color: red;
+}
+
+.lead {
+  /*background-color: black;*/
+  color: red;
+}
+.topsy {
+  background: #d3d3d3;
+  width: 0 auto;
+  margin: 0px;
+  padding: 5px, 0px;
+}
+body {
+  background-color: #000000;
+}
+.tabGen {
+  margin (15px,0,10px,0);
+}
+.Racetrack td {
+  height: 300px;
+  width: 1200px;
+  margin: 0 auto;
+  color: #FFFFFF;
+  border:  grey solid 3px;
+  text-align: center;
+  background-color: null;
+}
+/*making the starting block colors*/
+.start {
+  background-color: #FF33FF;
+  /*text-align: right;*/
+}
+.start2 {
+  background-color: #7f1ae5;
+}
+/*making the finish line colors*/
+.finish1 {
+  background-color: green;
+
+}
+.finish2 {
+  background-color: green;
+
+}
+/*making the color spectrum*/
+.spaceOne, .spaceTwo, .spaceThree, .spaceFour, .space1, .space2, .space3, .space4 {
+  background-color: red;
+}
+.spaceFive, .spaceSix, .spaceSeven, .spaceEight, .spaceNine, .space5, .space6, .space7, .space8, .space9 {
+  background-color: yellow;
+}
+.spaceTen, .spaceEleven, .spaceTwelve, .spaceThirteen, .space10, .space11, .space12, .space13 {
+  background-color: #33FF33;
+}
+.rancid2 {
+  font-size: 35px;
+  color: #33FF33;
+}
+;
